@@ -10,6 +10,10 @@ body.open-menu {
     align-items: center;
     justify-content: space-between;
 }
+.df {
+    display: flex;
+    align-items: center;
+}
 .header {
     padding: 1rem 0;
 }
@@ -71,15 +75,15 @@ body.open-menu {
     align-items: center;
     justify-content: center;
     background-color: var(--third-brand-color);
-    width: 8rem;
-    height: 8rem;
-    border-radius: 50%;
+    width: 7rem;
+    height: 5rem;
     margin: 0 auto;
+    padding: 1rem;
 }
 .cart__span-box svg {
     display: block;
-    width: 3rem;
-    height: 3rem;
+    width: 2.5rem;
+    height: 2.5rem;
     fill: var(--main-text-color);
 }
 .cart__span {
