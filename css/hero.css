@@ -69,7 +69,8 @@
     font-family: var(--title-font);
 }
 .contacts__item .img {
-    max-width: 15rem;
+    width: 8rem;
+    height: 8rem;
     margin-bottom: 1rem;
 }
 
@@ -92,7 +93,7 @@
     background-color: var(--first-brand-color);
 }
 .policy {
-    padding: 15rem 0;
+    padding: 17rem 0;
     text-align: center;
     position: relative;
 }
@@ -114,10 +115,7 @@
 .policy__item .text {
     margin-bottom: 3rem;
 }
-.policy__item .img {
-   max-width: 20rem;
-   margin-bottom: 1rem;
-}
+
 
 
 
