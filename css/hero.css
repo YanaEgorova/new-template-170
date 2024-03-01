@@ -165,9 +165,9 @@
     .policy .sub-title {
         margin-bottom: 0;
         position: absolute;
-        font-size: 13rem;
+        font-size: 10rem;
         transform: rotate(90deg);
         right: -15rem;
-        top: 23rem;
+        top: 20rem;
     }
 }
